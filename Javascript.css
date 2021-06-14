@@ -1,0 +1,71 @@
+
+*{
+    margin: 0px;
+}
+body{
+    background: #C04848;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.display-4{
+    margin-left: 400px;
+    
+}
+#cal_container{
+    
+    height: 1000px;
+    
+}
+#display{
+    height: 100px;
+    width: 645px;
+    margin-left: 354px;
+    background: #232526;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#display h1{
+    color: #EEEEEE;
+    font-family: 'Castoro', serif;
+}
+
+#display_input{
+    color: #EEEEEE;
+    font-size: 20px;
+}
+
+#buttons1{
+   margin-left: 355px;
+}
+
+
+
+
+
+.col-md-2{
+    height: 100px;
+    background: #343a40;
+    color: white;
+   
+    font-family: 'Castoro', 'serif';
+    border: 1px solid white;
+}
+
+.col-md-2 p{
+    text-align: center;
+    font-size: 40px;
+}
+
+.col-md-2 .alpha{
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.col-md-2:hover{
+    background:#DCDCDC;
+    color:#343a40;
+    
+}
